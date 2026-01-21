@@ -4,7 +4,7 @@ Ruhao Yan<sup>1</sup> &ensp; Haotian Chen<sup>1</sup> &ensp; Yuang Zhang<sup>1</
 </p>
 
 <p align="center">
-<sup>1</sup>College of Information Science and Technology, Dalian Maritime University
+<sup>1</sup>School of Software Technology, Dalian University of Technology
 </p>
 
 <p align="center">
@@ -19,4 +19,5 @@ Ruhao Yan<sup>1</sup> &ensp; Haotian Chen<sup>1</sup> &ensp; Yuang Zhang<sup>1</
 
 ## Updates
 [2026-01-18] Our paper has been accepted by ICASSP 2026! All code and related model files will be published when we complete the sorting process. It won't take long.
+
 
