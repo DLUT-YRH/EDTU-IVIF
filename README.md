@@ -1,4 +1,4 @@
-# Enhance Deformation-Tolerant Unsupervised Infrared and Visible Image Fusion via Hybrid Feature Representation Learning [ICASSP 2026] 
+# Enhance Deformation-Tolerant Unsupervised Infrared and Visible Image Fusion via Hybrid Feature Representation Learning [ICASSP 2026 oral] 
 <p align="center">
 Ruhao Yan<sup>1</sup> &ensp; Haotian Chen<sup>1</sup> &ensp; Yuang Zhang<sup>1</sup> &ensp; Yong Liu<sup>1</sup> &ensp; Henglu Wei<sup>1</sup> &ensp; Xingyuan Li<sup>2</sup> &ensp; Wei Zhong<sup>1</sup> 
 </p>
